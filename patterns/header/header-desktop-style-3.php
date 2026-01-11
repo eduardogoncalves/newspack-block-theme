@@ -28,7 +28,7 @@
 
 		<!-- wp:column {"verticalAlignment":"center","width":"25%"} -->
 		<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25%">
-			<!-- wp:template-part {"slug":"search-menu","theme":"newspack-block-theme","tagName":"div","align":"right","className":"search-menu"} /-->
+			<!-- wp:template-part {"slug":"search-menu","tagName":"div","align":"right","className":"search-menu"} /-->
 		</div>
 		<!-- /wp:column -->
 	</div>

@@ -27,7 +27,7 @@
 			</div>
 			<!-- /wp:buttons -->
 
-			<!-- wp:template-part {"slug":"mobile-menu","theme":"newspack-block-theme","tagName":"div","lock":{"move":false,"remove":true},"className":"mobile-menu"} /-->
+			<!-- wp:template-part {"slug":"mobile-menu","tagName":"div","lock":{"move":false,"remove":true},"className":"mobile-menu"} /-->
 		</div>
 		<!-- /wp:group -->
 	</div>

@@ -30,7 +30,7 @@
 	<div class="wp-block-group alignwide">
 		<!-- wp:navigation {"className":"primary-navigation","layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"left","orientation":"horizontal","flexWrap":"wrap"},"style":{"typography":{"textTransform":"uppercase"}}} /-->
 
-		<!-- wp:template-part {"slug":"search-menu","theme":"newspack-block-theme","tagName":"div","className":"search-menu"} /-->
+		<!-- wp:template-part {"slug":"search-menu","tagName":"div","className":"search-menu"} /-->
 	</div>
 	<!-- /wp:group -->
 

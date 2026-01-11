@@ -15,11 +15,11 @@
 
 	<!-- wp:group {"lock":{"move":true,"remove":true},"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","justifyContent":"space-between","flexWrap":"nowrap"}} -->
 	<div class="wp-block-group alignwide">
-		<!-- wp:template-part {"slug":"mobile-menu","theme":"newspack-block-theme","tagName":"div","lock":{"move":false,"remove":true},"className":"mobile-menu"} /-->
+		<!-- wp:template-part {"slug":"mobile-menu","tagName":"div","lock":{"move":false,"remove":true},"className":"mobile-menu"} /-->
 
 		<!-- wp:site-logo {"width":256,"lock":{"move":false,"remove":true}} /-->
 
-		<!-- wp:template-part {"slug":"search-menu","theme":"newspack-block-theme","tagName":"div","className":"search-menu"} /-->
+		<!-- wp:template-part {"slug":"search-menu","tagName":"div","className":"search-menu"} /-->
 	</div>
 	<!-- /wp:group -->
 

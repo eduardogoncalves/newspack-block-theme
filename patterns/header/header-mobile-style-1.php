@@ -17,7 +17,7 @@
 	<div class="wp-block-group alignwide">
 		<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 		<div class="wp-block-group">
-			<!-- wp:template-part {"slug":"mobile-menu","theme":"newspack-block-theme","tagName":"div","lock":{"move":false,"remove":true},"className":"mobile-menu"} /-->
+			<!-- wp:template-part {"slug":"mobile-menu","tagName":"div","lock":{"move":false,"remove":true},"className":"mobile-menu"} /-->
 
 			<!-- wp:site-logo {"width":256,"lock":{"move":false,"remove":true}} /-->
 		</div>

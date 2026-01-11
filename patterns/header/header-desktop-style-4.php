@@ -36,7 +36,7 @@
 			</div>
 			<!-- /wp:buttons -->
 
-			<!-- wp:template-part {"slug":"search-menu","theme":"newspack-block-theme","tagName":"div","align":"right","className":"search-menu"} /-->
+			<!-- wp:template-part {"slug":"search-menu","tagName":"div","align":"right","className":"search-menu"} /-->
 		</div>
 		<!-- /wp:group -->
 	</div>
